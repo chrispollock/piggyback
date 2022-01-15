@@ -29,4 +29,3 @@ getRecords( endpoint ).then( records => {
 
     setDOM( html );
 } );
-    
